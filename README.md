@@ -9,7 +9,7 @@ I'm a FrontEnd Engineer in the making, and a mechanical Engineer. I'm passionate
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of FrontEnd Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning CSS, JavaScript,and Python.
+- 🌱 I’m currently learning HTML,CSS,JavaScript,and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front Engineer, Mechanical Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing nyaakuopeyemi007@gmail.com.
